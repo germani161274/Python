@@ -14,9 +14,7 @@ class Accrual:
         conn = None
 
         try:
-            #conn = MongoClient('mongodb://juno_loan:VEUSUdrLmCLd9pE6PveQY8ahgnNqL2f2@10.0.1.198:27017/Customers?authSource=admin')
-            #conn = MongoClient('mongodb://juno_loan:VEUSUdrLmCLd9pE6PveQY8ahgnNqL2f2@qa-juno-mongodb.cluster-c5ebb2jx7zvm.us-east-1.docdb.amazonaws.com:27017/Loans?authSource=admin&retryWrites=false')
-            conn = MongoClient('mongodb://juno_loan:nHgSN5JfHDwz9yexpUNj2x5jED3UgCrC@prod-juno-mongodb.cluster-ro-ctza19neneum.us-east-1.docdb.amazonaws.com:27017/Loans?authSource=admin&retryWrites=false')
+            conn = MongoClient('Completar con  el host')
 
             db = conn['Loans']
             accruals = db['accruals']
@@ -32,9 +30,7 @@ class Accrual:
         conn = None
 
         try:
-            #conn = MongoClient('mongodb://juno_loan:VEUSUdrLmCLd9pE6PveQY8ahgnNqL2f2@10.0.1.198:27017/Customers?authSource=admin')
-            #conn = MongoClient('mongodb://juno_loan:VEUSUdrLmCLd9pE6PveQY8ahgnNqL2f2@qa-juno-mongodb.cluster-c5ebb2jx7zvm.us-east-1.docdb.amazonaws.com:27017/Loans?authSource=admin&retryWrites=false')
-            conn = MongoClient('mongodb://juno_loan:nHgSN5JfHDwz9yexpUNj2x5jED3UgCrC@prod-juno-mongodb.cluster-ro-ctza19neneum.us-east-1.docdb.amazonaws.com:27017/Loans?authSource=admin&retryWrites=false')
+            conn = MongoClient('Completar con  el host')
 
             db = conn['Loans']
             accruals = db['accruals']
@@ -49,9 +45,7 @@ class Accrual:
         conn = None
 
         try:
-            #conn = MongoClient('mongodb://juno_loan:VEUSUdrLmCLd9pE6PveQY8ahgnNqL2f2@10.0.1.198:27017/Customers?authSource=admin')
-            #conn = MongoClient('mongodb://juno_loan:VEUSUdrLmCLd9pE6PveQY8ahgnNqL2f2@qa-juno-mongodb.cluster-c5ebb2jx7zvm.us-east-1.docdb.amazonaws.com:27017/Loans?authSource=admin&retryWrites=false')
-            conn = MongoClient('mongodb://juno_loan:nHgSN5JfHDwz9yexpUNj2x5jED3UgCrC@prod-juno-mongodb.cluster-ro-ctza19neneum.us-east-1.docdb.amazonaws.com:27017/Loans?authSource=admin&retryWrites=false')
+            conn = MongoClient('Completar con  el host')
 
             db = conn['Loans']
             accruals = db['accruals']
@@ -66,9 +60,7 @@ class Accrual:
         conn = None
 
         try:
-            #conn = MongoClient('mongodb://juno_loan:VEUSUdrLmCLd9pE6PveQY8ahgnNqL2f2@10.0.1.198:27017/Customers?authSource=admin')
-            #conn = MongoClient('mongodb://juno_loan:VEUSUdrLmCLd9pE6PveQY8ahgnNqL2f2@qa-juno-mongodb.cluster-c5ebb2jx7zvm.us-east-1.docdb.amazonaws.com:27017/Loans?authSource=admin&retryWrites=false')
-            conn = MongoClient('mongodb://juno_loan:nHgSN5JfHDwz9yexpUNj2x5jED3UgCrC@prod-juno-mongodb.cluster-ro-ctza19neneum.us-east-1.docdb.amazonaws.com:27017/Loans?authSource=admin&retryWrites=false')
+            conn = MongoClient('Completar con  el host')
 
             db = conn['Loans']
             accruals = db['accruals']
@@ -84,9 +76,7 @@ class Accrual:
         conn = None
 
         try:
-            #conn = MongoClient('mongodb://juno_loan:VEUSUdrLmCLd9pE6PveQY8ahgnNqL2f2@10.0.1.198:27017/Customers?authSource=admin')
-            #conn = MongoClient('mongodb://juno_loan:VEUSUdrLmCLd9pE6PveQY8ahgnNqL2f2@qa-juno-mongodb.cluster-c5ebb2jx7zvm.us-east-1.docdb.amazonaws.com:27017/Loans?authSource=admin&retryWrites=false')
-            conn = MongoClient('mongodb://juno_loan:nHgSN5JfHDwz9yexpUNj2x5jED3UgCrC@prod-juno-mongodb.cluster-ro-ctza19neneum.us-east-1.docdb.amazonaws.com:27017/Loans?authSource=admin&retryWrites=false')
+            conn = MongoClient('Completar con  el host')
 
             db = conn['Loans']
             accruals = db['accruals']
